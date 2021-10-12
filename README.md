@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Basic Implementation of Walk Mesh
 
-Author: (TODO: your name)
+Author: Harrison Chen
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: This is a basic implementation of walk mesh. Due to some time conflicts, no game is made this time.
 
 Screen Shot:
 
@@ -10,9 +10,10 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Mouse move view, WASD move position.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: 
+- original scene from base code
 
 This game was built with [NEST](NEST.md).
 
